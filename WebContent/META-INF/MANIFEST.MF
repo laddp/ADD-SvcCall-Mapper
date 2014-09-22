@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: 
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Version: 1.0
+Bundle-Name: ServiceCallMapper
+Bundle-Vendor: (c) 2010 Patrick Ladd, Bottini Fuel
+

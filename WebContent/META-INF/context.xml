@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Parameter name="yahoo_app_id" value="EdHrMjfV34GNdbqTq7Fk1YlYDq2FeH0G4u1eD5_wn2vswML.rirHZeVzZAndp_HLwf0A"></Parameter>
+	<Parameter name="geocode_cache_file" value="/tmp/geocode_cache.jso"></Parameter>
+	<Parameter name="energy_server" value="10.10.10.2"></Parameter>
+	<Parameter name="energy_port" value="5000"></Parameter>
+	<Parameter name="energy_db" value="AR1"></Parameter>
+	<Parameter name="energy_user" value="botar1"></Parameter>
+	<Parameter name="energy_password" value="b0tt1n1"></Parameter>
+	<Parameter name="propane_reasons" value="215-222,225-256"></Parameter>
+	<Parameter name="install_reasons" value="36,71-75,223-224"></Parameter>
+	<Parameter name="cleaning_reasons" value="91,92,126"></Parameter>
+	<Parameter name="estimate_reasons" value="83,222"></Parameter>
+</Context>
